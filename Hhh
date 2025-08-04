@@ -1,0 +1,37 @@
+<!-- File: about.html -->
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>About • U.P.S. Pure Vikram Shah</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <nav class="topnav">
+    <a href="index.html">होम</a>
+    <a href="about.html" class="active">हमारे बारे में</a>
+    <a href="staff.html">स्टाफ़</a>
+    <a href="homework.html">होमवर्क</a>
+  </nav>
+
+  <main>
+    <article class="about-container">
+      <h2>हमारे बारे में</h2>
+      <ul>
+        <li><strong>UDISE कोड:</strong> 09450408902</li>
+        <li><strong>स्थापना वर्ष:</strong> जानकारी उपलब्ध नहीं (स्रोत: vidyatime)</li>
+        <li><strong>कक्षाएँ:</strong> I – VIII</li>
+        <li><strong>छात्र संख्या:</strong> ≈ 135 (1 पुरुष, 4 महिला शिक्षक शामिल)*</li>
+        <li><strong>प्रबंध:</strong> Department of Education, U.P. Government*</li>
+        <li><strong>क्षेत्र:</strong> Rural—ग्रामीण*</li>
+      </ul>
+      <p>
+        विद्यालय अपनी घोषित कक्षाएं और छात्र‑शिक्षक संख्या के अनुसार राज्य माध्यमिक शिक्षा बोर्ड की मानक सुविधाओं व पाठ्यक्रम के तहत चलता है।
+      </p>
+      <footer>
+        <p>© 2025 U.P.S. Pure Vikram Shah</p>
+      </footer>
+    </article>
+  </main>
+</body>
+</html>
